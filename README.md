@@ -25,8 +25,8 @@ Dados os tópicos, preciso que gere uma introdução completa e detalhada.<br>
 
 ### $${\color{green} Miniguia \space de \space Estudos}$$
 
-Resumos Estruturados
-Fundamentos da IoT A Internet das Coisas (IoT) é a rede de dispositivos físicos equipados com sensores e softwares que se conectam à internet para coletar e trocar dados
+#### Resumos Estruturados
+**Fundamentos da IoT A Internet das Coisas (IoT)** <br>é a rede de dispositivos físicos equipados com sensores e softwares que se conectam à internet para coletar e trocar dados
 . O sistema funciona em três pilares:
 Dispositivos inteligentes: Coletam dados do ambiente através de sensores
 .
@@ -62,7 +62,7 @@ Segurança: Câmeras com IA identificam fisicamente comportamentos de risco, enq
 .
 
 --------------------------------------------------------------------------------
-2. Glossário
+**2. Glossário**<br>
 Atuadores: Dispositivos que recebem comandos para realizar ações físicas, como fechar válvulas ou ligar motores
 .
 Computação de Borda (Edge Computing): Processamento de dados realizado fisicamente mais próximo ao dispositivo gerador, reduzindo a latência e o tempo de resposta
