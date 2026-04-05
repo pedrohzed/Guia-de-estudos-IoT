@@ -21,4 +21,5 @@ Preciso de um guia de estudos introdutório sobre alguns tópicos de IoT:<br>
 - Aprender sobre os fundamentos de IoT
 - Ver exemplos de projetos e aplicações
 - Explorar um pouco sobre o uso da IA no mundo de IoT<br>
+<br>
 Dados os tópicos, preciso que gere uma introdução completa e detalhada.
