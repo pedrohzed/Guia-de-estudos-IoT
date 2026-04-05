@@ -16,7 +16,7 @@ Primeiro eu listei o que eu precisava extrair das fontes (objetivos); <br>
 Depois, soliscitei que ele fizesse uma introdução sobre cada tópico; <br>
 <br>
 Com relação ao Troubleshooting, não tive esse empecilho, acredito que fui preciso nas fontes e prudente nas instruções.<br>
-### Prompt utilizado
+###  $${\color{blue} Prompt:}$$
 Preciso de um guia de estudos introdutório sobre alguns tópicos de IoT:<br>
 - Aprender sobre os fundamentos de IoT
 - Ver exemplos de projetos e aplicações
